@@ -45,4 +45,4 @@ Example S# code:
 ```s#
 let x = 10
 let y = x * 2
-print(y)
+PRINT(y)
